@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.Research{
+    display: block;
+    padding: 0;
+}
+
+
+
+.Research-groups{
+    height: 50vh;
+    width: 100%;
+    background-image: url(../images/research\ groups\ background.jpg);
+  
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+
+.Research-groups h2{
+    color: black;
+    font-size: 3rem;
+    font-weight: 700;
+}
