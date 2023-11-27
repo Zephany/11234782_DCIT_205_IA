@@ -1,0 +1,66 @@
+
+.Faculty{
+    height: 50vh;
+    width: 100%;
+    background-image: url(../images/under_grad_main.jpg);
+  
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: black;
+}
+
+.Faculty h2{
+    color: black;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+img {
+    max-width: 20%;
+   
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.contact {
+    background-color: #f9f9f9;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.contact-info h1{
+    color: black;
+
+
+}
+
+
+#bio{
+  padding: 10px;
+  text-align: center;
+}
