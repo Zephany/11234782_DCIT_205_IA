@@ -39,25 +39,25 @@ Highlight the main features or functionalities of your project.
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshots/home.PNG)
-![Homepage](screenshots/home%201.PNG)
-![Homepage](screenshots/home%202.PNG)
-![Homepage](screenshots/home%203.PNG)
-![Homepage](screenshots/home%204.PNG)
+![Homepage](Screenshots/home.PNG)
+![Homepage](Screenshots/home%201.PNG)
+![Homepage](Screenshots/home%202.PNG)
+![Homepage](Screenshots/home%203.PNG)
+![Homepage](Screenshots/home%204.PNG)
 
 ### About
-![About](screenshots/about.PNG)
-![About](screenshots/about%201.PNG)
-![About](screenshots/about%202.PNG)
+![About](Screenshots/about.PNG)
+![About](Screenshots/about%201.PNG)
+![About](Screenshots/about%202.PNG)
 
 ### Faculty
-![Faculty](screenshots/faculty.PNG)
-![Faculty](screenshots/faculty%201.PNG)
+![Faculty](Screenshots/faculty.PNG)
+![Faculty](Screenshots/faculty%201.PNG)
 
 ### Events
-![Events](screenshots/events.PNG)
-![Events](screenshots/events1.PNG)
-![Events](screenshots/events%202.PNG)
+![Events](Screenshots/events.PNG)
+![Events](Screenshots/events1.PNG)
+![Events](Screenshots/events%202.PNG)
 
 
 
